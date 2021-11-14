@@ -17,7 +17,6 @@
 ### Experience
 - 🎓 SSAFY6 (2021.07~ now )
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=heeya15" height="165">
 
 ### What I Like
 
