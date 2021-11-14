@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Kemmochi's%20GitHub&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=heeya15's%21GitHub&fontSize=70&animation=scaleIn)
 <div align='center'>
   <h2>WELCOME!</h2><p><p>
   
