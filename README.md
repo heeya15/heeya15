@@ -7,7 +7,7 @@
   Technology<p>
 
 ![heeya15 GitHub stats](https://github-readme-stats.vercel.app/api?username=heeya15&show_icons=true)<br/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <br/> 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Java&Spring&logoColor=white"/></a> <br/> 
 </div>
 
 <!--
