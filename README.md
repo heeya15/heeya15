@@ -6,8 +6,6 @@
 [![Naver Blog Badge](https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat&logoColor=white)](https://blog.naver.com/haesoo9410) 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://haesoo9410.tistory.com/)
 --> 
-
-  
 ### Who Am I
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hgi720">
@@ -17,13 +15,9 @@
 - 🚅 I live in Busan.
 
 ### Experience
-<!--
-- 🎓 Hanyang University , Economics(ERICA) (2014.03~ )
-- 💊 ESTsoft, Sales team Intern (2018.07~2018.12)
-- 🌍 Kobe University, Economics(Exchange) (2019.04~2019.09)
-!-->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=heeya15" height="165">
+- 🎓 SSAFY6 (2021.07~ now )
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=heeya15" height="165">
 
 ### What I Like
 
