@@ -6,11 +6,11 @@
   
   Technology<p>
 
-![heeya15 GitHub stats](https://github-readme-stats.vercel.app/api?username=heeya15&show_icons=true)
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+![heeya15 GitHub stats](https://github-readme-stats.vercel.app/api?username=heeya15&show_icons=true)<br/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp <br/> 
 </div>
 
-
+<!--
 **heeya15/heeya15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+--!>
