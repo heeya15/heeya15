@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Kemmochi's%20GitHub&fontSize=70&animation=scaleIn)
+<div align='center'>
+  <h2>WELCOME!</h2><p><p>
+  
+  Technology<p>
+
+![heeya15 GitHub stats](https://github-readme-stats.vercel.app/api?username=heeya15&show_icons=true)
+
+</div>
+
 
 **heeya15/heeya15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
