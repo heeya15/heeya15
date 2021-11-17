@@ -18,8 +18,7 @@
 - 🎓 SSAFY6 (2021.07~ now )
 - Algoritm Study
 - 
-<!--<img align='right' src="https://github-readme-stats.vercel.app/api?username=heeya15" height="165"> -->
-[![heeya15's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=heeya15&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/heeya15)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=heeya15" height="165">
 
 ### What I Like
 
