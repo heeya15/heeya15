@@ -10,7 +10,7 @@
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hgi720">
 
-- 🌱 I’m currently learning `Spring`, `Algorithm`, `Vue`, `Java`
+- 🌱 I’m currently learning `Spring`, `Algorithm`, `Vue`, `Java`, `React`
 - 🥇 I majored in Computer engineering
 - 🚅 I live in Busan.
 
